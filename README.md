@@ -1,3 +1,3 @@
-#C++ Game Project 
+# C++ Game Project 
 Brakeout type game made in c++
 
