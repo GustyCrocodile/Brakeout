@@ -1,4 +1,4 @@
 # C++ Game Project 
 Brakeout type game made in c++
 
-![image description] (/screenshots/brakeout-screenshot.jpg)
+![Screenshot] (https://github.com/GustyCrocodile/Brakeout/blob/master/screenshots/brakeout-screenshot.jpg)
